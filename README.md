@@ -34,11 +34,12 @@ Here are some ideas to get you started:-->
   #### Others
   <img src="https://img.shields.io/badge/Apache kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-</div>
+
 
 ### ⚡ Project Link: 
   
-- 💬 Ask me about
+### 💬 Ask me about
   
-- 📫 How to reach me: 
+### 📫 How to reach me: 
 
+</div>
