@@ -32,11 +32,11 @@ Here are some ideas to get you started:-->
 
   #### In-Memory DataBase
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-  <br><br>
+  <br>
 
   #### OS
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-
+  <br>
 
 ### ⚡ Project Link: 
 https://orday.vercel.app
