@@ -28,15 +28,15 @@ Here are some ideas to get you started:-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-  <br>
+  <br><br>
 
   #### In-Memory DataBase
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-  <br>
+  <br><br>
 
   #### OS
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-  <br>
+  <br><br>
 
 ### ⚡ Project Link: 
 https://orday.vercel.app
