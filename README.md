@@ -41,9 +41,7 @@ Here are some ideas to get you started:-->
 ### ⚡ Project Link: 
 https://orday.vercel.app
 
-  
-### 💬 Ask me about
-  
 ### 📫 How to reach me: 
+Email: jmjang8823@gmail.com
 
 </div>
