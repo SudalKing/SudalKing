@@ -39,7 +39,7 @@ Here are some ideas to get you started:-->
   <br><br>
 
 ### ⚡ Project Link: 
-https://orday.vercel.app
+https://github.com/SudalKing/Shopping_mall/blob/main/README.md
 
 ### 📫 How to reach me: 
 Email: jmjang8823@gmail.com
