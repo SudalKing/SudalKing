@@ -13,10 +13,12 @@ Here are some ideas to get you started:-->
 <br>
 
 ### 🌱 Skills
-  #### Languages & Frameworks
+  #### Languages
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square"/>
-  <br>
+  <br><br>
+
+  #### Frameworks & Libraries
   <img src="https://img.shields.io/badge/Spring Boot-3DDC84?style=flat-square&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Data JPA-3DDC84?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-3DDC84?style=flat-square&logo=Spring Security&logoColor=white"/>
@@ -36,6 +38,7 @@ Here are some ideas to get you started:-->
 
   #### OS
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-F80000?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <br><br>
 
 ### ⚡ Project Link: 
