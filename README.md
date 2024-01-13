@@ -40,6 +40,12 @@ Here are some ideas to get you started:-->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-F80000?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <br><br>
+  
+
+### ✏️ Log
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudalKing&theme=dracula)](https://github.com/SudalKing/github-readme-stats)
+
 
 ### ⚡ Project Link: 
 [쇼핑몰 프로젝트](https://github.com/SudalKing/Shopping_mall/blob/main/README.md)
