@@ -2,9 +2,6 @@
 <div align=center>
   
   ### 👋 Introduction
-  
-  안녕하세요! 정보통신공학과를 졸업하여 백엔드 개발자로의 취업을 준비 중이며 <br> 
-  현재 __DB성능 개선, 쿼리 최적화, 대규모 트래픽 처리__ 분야에 관심을 가지고 공부하고 있습니다.
 
 <!--
 **SudalKing/SudalKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
