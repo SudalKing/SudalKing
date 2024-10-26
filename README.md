@@ -24,6 +24,8 @@ Here are some ideas to get you started:-->
   <img src="https://img.shields.io/badge/Spring Boot-3DDC84?style=flat-square&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Data JPA-3DDC84?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-3DDC84?style=flat-square&logo=Spring Security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Cloud-3DDC84?style=flat-square&logo=Spring&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/QueryDSL-3DDC84?style=flat-square"/>
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
   <br><br>
@@ -37,6 +39,15 @@ Here are some ideas to get you started:-->
 
   #### In-Memory DataBase
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+  <br><br>
+
+  #### Message Queue
+  <img src="https://img.shields.io/badge/kafka-white?style=flat-square&logo=Apache%20Kafka&logoColor=black"/>
+  <br><br>
+
+  #### Orchestration
+  <img src="https://img.shields.io/badge/docker-white?style=flat-square&logo=Docker&logoColor=%232496ED"/>
+  <img src="https://img.shields.io/badge/kubernetes-white?style=flat-square&logo=kubernetes&logoColor=%232496ED"/>
   <br><br>
 
   #### OS
