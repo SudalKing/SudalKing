@@ -3,7 +3,7 @@
   
   ### 👋 Introduction
 
-안녕하세요! 전기차 충전기 회사에서 백엔드 파트를 개발하는 신입 개발자입니다. 
+안녕하세요!
 
 <!--
 **SudalKing/SudalKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
